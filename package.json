@@ -12,7 +12,7 @@
     "react-redux": "^4.0.0",
     "redux": "^3.0.0",
     "redux-actions": "^0.8.0",
-    "electron-compile": "^1.0.0",
+    "electron-compile": "^3.3.1",
     "redux-devtools": "^2.1.2"
   },
   "devDependencies": {
